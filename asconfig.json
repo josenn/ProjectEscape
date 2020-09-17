@@ -1,0 +1,11 @@
+{
+	"animateOptions": {
+		"file": "MyApp.fla"
+	},
+	"compilerOptions": {
+		"source-path": [
+			"src"
+		]
+	},
+	"mainClass": "Main"
+}
